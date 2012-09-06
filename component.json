@@ -1,6 +1,6 @@
 {
   "name"        : "jquery",
-  "version"     : "1.6.3",
+  "version"     : "1.6.4",
   "main"        : "./jquery.js",
   "dependencies": {
   }
