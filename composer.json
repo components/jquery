@@ -21,6 +21,10 @@
         "robloach/component-installer": "*"
     },
     "extra": {
-        "js": "jquery.js"
+        "component": {
+            "scripts": [
+                "jquery.js"
+            ]
+        }
     }
 }
