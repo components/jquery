@@ -6,6 +6,7 @@
     "jquery",
     "component"
   ],
+  "main": "jquery.js",
   "scripts": [
     "jquery.js"
   ],
