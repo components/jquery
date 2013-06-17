@@ -6,6 +6,6 @@
     "jquery",
     "component"
   ],
-  "main": "jquery.js",
+  "main": "jquery.min.js",
   "license": "MIT"
 }
