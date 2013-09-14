@@ -6,6 +6,10 @@
     "jquery",
     "component"
   ],
+  "ignore": [
+    "**/.*",
+    "*.json"
+  ],
   "main": "jquery.js",
   "license": "MIT"
 }
