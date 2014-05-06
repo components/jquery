@@ -25,6 +25,9 @@
       "type": "MIT",
       "url": "https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt"
     }
-  ]
+  ],
+  "spm": {
+    "main": "jquery.js"
+  }
 }
 
