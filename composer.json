@@ -28,7 +28,8 @@
             "files": [
                 "jquery.min.js",
                 "jquery-migrate.js",
-                "jquery-migrate.min.js"
+                "jquery-migrate.min.js",
+                "jquery.min.map"
             ]
         }
     }
