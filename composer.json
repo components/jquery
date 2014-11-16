@@ -17,9 +17,6 @@
             "email": "jeresig@gmail.com"
         }
     ],
-    "require": {
-        "robloach/component-installer": "*"
-    },
     "extra": {
         "component": {
             "scripts": [
