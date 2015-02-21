@@ -6,7 +6,7 @@ Shim [repository](https://github.com/components/jquery) for the [jQuery](http://
 Package Managers
 ----------------
 
-* [Bower](http://bower.io/): `jquery`
+* [Bower](http://bower.io/): `components-jquery`
 * [Component](https://github.com/component/component): `components/jquery`
 * [Composer](http://packagist.org/packages/components/jquery): `components/jquery`
 * [spm](http://spmjs.io/package/jquery): `jquery`
