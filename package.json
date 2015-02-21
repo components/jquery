@@ -1,5 +1,5 @@
 {
-  "name": "jquery",
+  "name": "components-jquery",
   "description": "JavaScript library for DOM operations",
   "version": "2.1.3",
   "homepage": "http://jquery.com",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jquery/jquery.git"
+    "url": "https://github.com/components/jquery.git"
   },
   "keywords": [
     "jquery",
@@ -30,4 +30,3 @@
     "main": "jquery.js"
   }
 }
-
