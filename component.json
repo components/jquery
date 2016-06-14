@@ -1,15 +1,19 @@
 {
-  "name": "jquery",
-  "repo": "components/jquery",
-  "version": "2.2.1",
-  "description": "jQuery component",
-  "keywords": [
-    "jquery",
-    "component"
-  ],
-  "main": "jquery.js",
-  "scripts": [
-    "jquery.js"
-  ],
-  "license": "MIT"
+    "name": "jquery",
+    "repo": "components/jquery",
+    "version": "3.0.0",
+    "description": "jQuery component",
+    "license": "MIT",
+    "keywords": [
+        "jquery",
+        "component"
+    ],
+    "main": "jquery.js",
+    "scripts": [
+        "jquery.js",
+        "jquery.min.js"
+    ],
+    "files": [
+        "jquery.min.map"
+    ]
 }
