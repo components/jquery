@@ -13,8 +13,8 @@
     },
     "authors": [
         {
-            "name": "John Resig",
-            "email": "jeresig@gmail.com"
+            "name": "JS Foundation and other contributors",
+            "url": "https://github.com/jquery/jquery/blob/master/AUTHORS.txt"
         }
     ],
     "extra": {
@@ -24,7 +24,10 @@
             ],
             "files": [
                 "jquery.min.js",
-                "jquery.min.map"
+                "jquery.min.map",
+                "jquery.slim.js",
+                "jquery.slim.min.js",
+                "jquery.slim.min.map"
             ]
         }
     }
